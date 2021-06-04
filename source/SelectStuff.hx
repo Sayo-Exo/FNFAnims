@@ -263,7 +263,7 @@ class SelectStuff extends FlxState
 
 	public function checkVersion()
 	{
-		var http:Http = new Http("");
+		var http:Http = new Http("https://raw.githubusercontent.com/Sayo-Exo/FNFAnims/main/coolversion.txt");
 
 		http.onData = function(data:String)
 		{
