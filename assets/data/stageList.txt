@@ -1,0 +1,6 @@
+menuBG
+menuBGBlue
+menuBGMagenta
+menuDesat
+stage
+spooky

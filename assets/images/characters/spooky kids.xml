@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spooky kids.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note sing left0000" x="0" y="0" width="556" height="527" frameX="0" frameY="-2" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0001" x="0" y="0" width="556" height="527" frameX="0" frameY="-2" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0002" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0003" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0004" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0005" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0006" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0007" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0008" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0009" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0010" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0011" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0012" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0013" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="note sing left0014" x="566" y="0" width="559" height="531" frameX="-5" frameY="0" frameWidth="564" frameHeight="531"/>
+	<SubTexture name="spooky DOWN note0000" x="1135" y="0" width="463" height="408" frameX="0" frameY="-4" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0001" x="1135" y="0" width="463" height="408" frameX="0" frameY="-4" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0002" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0003" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0004" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0005" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0006" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0007" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0008" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0009" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0010" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0011" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0012" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0013" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0014" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0015" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0016" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0017" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0018" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0019" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0020" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0021" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0022" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0023" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky DOWN note0024" x="1608" y="0" width="448" height="409" frameX="-8" frameY="0" frameWidth="463" frameHeight="412"/>
+	<SubTexture name="spooky UP NOTE0000" x="2066" y="0" width="399" height="571" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="spooky UP NOTE0001" x="2066" y="0" width="399" height="571" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="spooky UP NOTE0002" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="spooky UP NOTE0003" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="spooky UP NOTE0004" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="spooky dance idle0000" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0001" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0002" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0003" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0004" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0005" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0006" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0007" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0008" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0009" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0010" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0011" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0012" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0013" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0014" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky dance idle0015" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="spooky sing right0000" x="1357" y="581" width="442" height="524" frameX="0" frameY="-9" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0001" x="1357" y="581" width="442" height="524" frameX="0" frameY="-9" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0002" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0003" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0004" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0005" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0006" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0007" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0008" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0009" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0010" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0011" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0012" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0013" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0014" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0015" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0016" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0017" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0018" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0019" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0020" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0021" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0022" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0023" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	<SubTexture name="spooky sing right0024" x="1809" y="581" width="437" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533"/>
+	
+	<!-- up -->
+	<SubTexture name="do da spooky dance!0000" x="2066" y="0" width="399" height="571" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0001" x="2066" y="0" width="399" height="571" frameX="-1" frameY="0" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0002" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0003" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0004" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0005" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0006" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0007" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0008" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0009" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0010" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0011" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0012" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0013" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0014" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0015" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0016" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0017" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0018" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0019" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0020" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0021" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0022" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0023" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0024" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0025" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0026" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0027" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0028" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0029" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0030" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0031" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0032" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0033" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0034" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0035" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0036" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0037" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0038" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0039" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0040" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0041" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0042" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0043" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0044" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0045" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0046" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0047" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0048" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0049" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0050" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0051" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0052" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0053" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0054" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0055" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0056" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0057" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0058" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0059" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0060" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0061" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0062" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0063" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0064" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0065" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0066" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0067" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0068" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0069" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0070" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0071" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0072" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+	<SubTexture name="do da spooky dance!0073" x="2475" y="0" width="406" height="566" frameX="0" frameY="-5" frameWidth="406" frameHeight="571"/>
+
+	<!-- dance -->
+	<SubTexture name="do da spooky dance!0074" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0075" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0076" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0077" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0078" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0079" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0080" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0081" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0082" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0083" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0084" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0085" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0086" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0087" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0088" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0089" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0090" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0091" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0092" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0093" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0094" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0095" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0096" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0097" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0098" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0099" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0100" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0101" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0102" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0103" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0104" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0105" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0106" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0107" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0108" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0109" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0110" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0111" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0112" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0113" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0114" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0115" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0116" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0117" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0118" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0119" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0120" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0121" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0122" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0123" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0124" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0125" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0126" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0127" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0128" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0129" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0130" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0131" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0132" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0133" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0134" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0135" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0136" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0137" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0138" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0139" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0140" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0141" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0142" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0143" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0144" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0145" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0146" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0147" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0148" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0149" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0150" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0151" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0152" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0153" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0154" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0155" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0156" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0157" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0158" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0159" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0160" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0161" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0162" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0163" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0164" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0165" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0166" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0167" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0168" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0169" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0170" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0171" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0172" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0173" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0174" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0175" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0176" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0177" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0178" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0179" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0180" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0181" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0182" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0183" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0184" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0185" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0186" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0187" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0188" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0189" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0190" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0191" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0192" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0193" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0194" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0195" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0196" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0197" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0198" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0199" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0300" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0301" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0302" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0303" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0304" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0305" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0306" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0307" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0308" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0309" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0310" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0311" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0312" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0313" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0314" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0315" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0316" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0317" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0318" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0319" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0320" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0321" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0322" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0323" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0324" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0325" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0326" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0327" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0328" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0329" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0330" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0331" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0332" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0333" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0334" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0335" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0336" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0337" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0338" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0339" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0340" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0341" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0342" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0343" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0344" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0345" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0346" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0347" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0348" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0349" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0350" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0351" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0352" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0353" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0354" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0355" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0356" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0357" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0358" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0359" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0360" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0361" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0362" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0363" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0364" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0365" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0366" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0367" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0368" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0369" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0370" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0371" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0372" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0373" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0374" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0375" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0376" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0377" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0378" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0379" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0380" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0381" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0382" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0383" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0384" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0385" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0386" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0387" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0388" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0389" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0390" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0391" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0392" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0393" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0394" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0395" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0396" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0397" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0398" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0399" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0400" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0401" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0402" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0403" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0404" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0405" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0406" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0407" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0408" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0409" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0410" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0411" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0412" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0413" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0414" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0415" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0416" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0417" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0418" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0419" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0420" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0421" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0422" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0423" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0424" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0425" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0426" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0427" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0428" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0429" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0430" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0431" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0432" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0433" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0434" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0435" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0436" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0437" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0438" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0439" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0440" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0441" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0442" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0443" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0444" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0445" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0446" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0447" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0448" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0449" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0450" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0451" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0452" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0453" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0454" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0455" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0456" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0457" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0458" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0459" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0460" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0461" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0462" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0463" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0464" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0465" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0466" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0467" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0468" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0469" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0470" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0471" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0472" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0473" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0474" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0475" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0476" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0477" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0478" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0479" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0480" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0481" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0482" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0483" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0484" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0485" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0486" x="2891" y="0" width="381" height="549" frameX="-50" frameY="0" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0487" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0488" x="3282" y="0" width="379" height="541" frameX="-55" frameY="-8" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0489" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0490" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0491" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0492" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0493" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0494" x="364" y="581" width="492" height="532" frameX="0" frameY="-16" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0495" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0496" x="866" y="581" width="481" height="524" frameX="-7" frameY="-20" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0497" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0498" x="3671" y="0" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0499" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="do da spooky dance!0500" x="0" y="581" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+
+</TextureAtlas>
