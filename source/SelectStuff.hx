@@ -44,6 +44,7 @@ class SelectStuff extends FlxState
 		FlxG.mouse.visible = true;
 
 		outdatedBn = new FlxButton(0, 0, "Outdated Version", getNewVersion);
+		outdatedBn.height *= 2;
 		outdatedBn.visible = false;
 		checkVersion();
 
