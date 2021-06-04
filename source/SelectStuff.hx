@@ -27,6 +27,7 @@ class SelectStuff extends FlxState
 	var waterEnter:FlxUIInputText;
 	var waterAlpha:FlxUINumericStepper;
 	var playButton:FlxButton;
+	var outdatedBn:FlxButton;
 	var characters:Array<String>;
 	var backgrounds:Array<String>;
 	var bgm:Array<String>;
@@ -41,7 +42,11 @@ class SelectStuff extends FlxState
 	{
 		super.create();
 		FlxG.mouse.visible = true;
+
+		outdatedBn = new FlxButton(0, 0, "Outdated Version", getNewVersion);
+		outdatedBn.visible = false;
 		checkVersion();
+
 		var bfDropdownHeader:FlxText = new FlxText(0, 0, 0, "Character");
 		bfDropdownHeader.alignment = CENTER;
 		var bgDropdownHeader:FlxText = new FlxText(0, 0, 0, "Stage");
@@ -155,6 +160,7 @@ class SelectStuff extends FlxState
 		spDropdownHeader.x = spDropdown.getGraphicMidpoint().x;
 		spDropdownHeader.y = spDropdown.y + (offset / 2);
 
+		add(outdatedBn);
 		add(playButton);
 		add(waterEnterHeader);
 		add(waterEnter);
@@ -263,18 +269,22 @@ class SelectStuff extends FlxState
 
 	public function checkVersion()
 	{
+		var curVersion:Float = Std.parseFloat(Application.current.meta.get("version"));
 		var http:Http = new Http("https://raw.githubusercontent.com/Sayo-Exo/FNFAnims/main/coolversion.txt");
 
 		http.onData = function(data:String)
 		{
-			trace("cool new version: " + data.trim().toLowerCase() + "\n current version: " + Application.current.meta.get("version"));
-			if (data.trim().toLowerCase() == Application.current.meta.get("version"))
+			var newVersion:Float = Std.parseFloat(data.trim().toLowerCase());
+			trace("version checking:\ncool new version: " + newVersion + "\ncurrent version: " + curVersion);
+			if (newVersion == curVersion)
 			{
 				trace("GOOD VERSION");
+				outdatedBn.visible = false;
 			}
-			else
+			if (curVersion < newVersion)
 			{
 				trace("BAD VERSION");
+				outdatedBn.visible = true;
 			}
 		}
 
@@ -284,5 +294,10 @@ class SelectStuff extends FlxState
 		}
 
 		http.request();
+	}
+
+	public function getNewVersion()
+	{
+		FlxG.openURL("https://github.com/Sayo-Exo/FNFAnims/releases");
 	}
 }
